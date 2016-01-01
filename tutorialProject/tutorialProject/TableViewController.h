@@ -12,6 +12,6 @@
 
 @property NSArray *restaurantNameArray;
 @property NSMutableArray *AMenus;
-@property NSMutableArray *BMenus;
+@property NSMutableArray *BMenus;//
 
 @end
